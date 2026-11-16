@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "title": "Help",
+  "updatedAt": "2026-11-16",
+  "paragraphs": [
+    "Choose a display in the sidebar. Under Resolution, select a mode and click Apply Mode. Confirm within 15 seconds to keep it; otherwise HiDPI restores the previous mode. Available modes depend on macOS, your display and its connection. This edition does not create virtual displays or add unsupported resolutions.",
+    "Under Arrangement, select a secondary, non-mirrored display and place it to the left, right, above or below the main screen. Changes last for the current login session.",
+    "Dimming adds a temporary dark overlay. It does not change hardware backlight brightness or HDR settings. Use Restore All Brightness to remove every overlay. All overlays disappear when the app quits.",
+    "Choose any of the six languages in Settings, or follow your system language. No account or sign-in is required. If a change fails, use macOS System Settings > Displays. Contact support with your macOS version, display model and connection type; avoid sending personal or confidential information.",
+    "Compatibility: Connect the display directly when possible. Some hubs, cables and refresh rates limit the modes macOS exposes. This edition cannot enable an unsupported resolution or create a virtual display. Software dimming does not save backlight power. If the image disappears after applying a mode, wait 15 seconds for automatic restoration; use System Settings > Displays if macOS cannot restore it."
+  ]
+}

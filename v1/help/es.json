@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "locale": "es",
+  "title": "Ayuda",
+  "updatedAt": "2026-11-16",
+  "paragraphs": [
+    "Selecciona una pantalla en la barra lateral. En Resolución, elige un modo y pulsa Aplicar modo. Confirma antes de 15 segundos para conservarlo; si no, HiDPI restaura el modo anterior. Los modos dependen de macOS, la pantalla y su conexión. Esta edición no crea pantallas virtuales ni añade resoluciones no compatibles.",
+    "En Disposición, selecciona una pantalla secundaria que no esté duplicada y colócala a la izquierda, a la derecha, arriba o abajo de la principal. Los cambios duran la sesión actual.",
+    "Atenuación añade una capa oscura temporal. No modifica la retroiluminación física ni los ajustes HDR. Pulsa Restaurar todo el brillo para eliminar todas las capas. También se eliminan al salir de la app.",
+    "Elige uno de los seis idiomas en Ajustes o usa el idioma del sistema. No se requiere cuenta ni inicio de sesión. Si un cambio falla, utiliza Ajustes del Sistema > Pantallas en macOS. Al contactar con soporte, indica la versión de macOS, el modelo de pantalla y el tipo de conexión; no envíes información personal ni confidencial.",
+    "Compatibilidad: Conecta la pantalla directamente si es posible. Algunos adaptadores, cables y frecuencias limitan los modos que ofrece macOS. Esta edición no añade resoluciones no compatibles ni pantallas virtuales. La atenuación por software no reduce el consumo de la retroiluminación. Si desaparece la imagen tras cambiar el modo, espera 15 segundos para la restauración automática; si no se restaura, usa Ajustes del Sistema > Pantallas."
+  ]
+}
